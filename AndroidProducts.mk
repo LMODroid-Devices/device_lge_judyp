@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_judyp.mk
+    $(LOCAL_DIR)/lmodroid_judyp.mk
